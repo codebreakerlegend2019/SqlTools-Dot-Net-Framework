@@ -1,0 +1,6 @@
+C:\Users\Joshua D. Siuagan\source\repos\SqlTools\SqlTools\bin\Debug\SqlTools.dll
+C:\Users\Joshua D. Siuagan\source\repos\SqlTools\SqlTools\bin\Debug\SqlTools.pdb
+C:\Users\Joshua D. Siuagan\source\repos\SqlTools\SqlTools\obj\Debug\SqlTools.csprojAssemblyReference.cache
+C:\Users\Joshua D. Siuagan\source\repos\SqlTools\SqlTools\obj\Debug\SqlTools.csproj.CoreCompileInputs.cache
+C:\Users\Joshua D. Siuagan\source\repos\SqlTools\SqlTools\obj\Debug\SqlTools.dll
+C:\Users\Joshua D. Siuagan\source\repos\SqlTools\SqlTools\obj\Debug\SqlTools.pdb
